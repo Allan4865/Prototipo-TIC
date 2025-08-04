@@ -10,13 +10,6 @@ Sistema de detección de objetos con apoyo de profundidad y TTS
 3. [Arquitectura](#arquitectura)  
 4. [Requisitos](#requisitos)  
 5. [Instalación](#instalación)  
-6. [Ejecución](#ejecución)  
-7. [Uso y atajos](#uso-y-atajos)  
-8. [Personalización](#personalización)  
-9. [Desempeño de referencia](#desempeño-de-referencia)  
-10. [Próximos pasos](#próximos-pasos)  
-11. [Licencia](#licencia)  
-
 ---
 
 ## Descripción
