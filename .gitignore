@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.log
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Modelos y datos grandes
+*.onnx
+*.pt
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Otros
+*.sqlite3
