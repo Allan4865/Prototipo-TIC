@@ -41,7 +41,7 @@ Todo se ejecuta localmente; no se envían datos a la nube.
 ---
 
 ## Arquitectura
-![Diagrama de arquitectura](docs/arquitectura.png)
+![Diagrama de arquitectura]([docs/arquitectura.png](https://firebasestorage.googleapis.com/v0/b/correos-masivos-1c0c7.appspot.com/o/ChatGPT%20Image%203%20ago%202025%2C%2010_35_17%20p.m..png?alt=media&token=ec2cf050-0651-4305-b81f-8d84ee232d3a))
 
 1. **Front-end** (ventana OpenCV) captura vídeo y muestra resultados.  
 2. **API de inferencia** (YOLOv8-nano ONNX) devuelve objetos y confianza.  
